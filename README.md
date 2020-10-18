@@ -13,7 +13,7 @@ https://4pda.ru/forum/index.php?showtopic=992239&st=900#entry97859358
 
 ## Info about Decompiled Version
 - Version: 3.0.1, compatible with `main.30.com.eltechs.ed.obb`
-- Modified: Ludashi & AkiraYuki
+- Modified: Ludashi (Touchpad) & AkiraYuki (Translation)
 - Decompiler: [APKTool](https://ibotpeaches.github.io/Apktool/)
 
 ## Credits
