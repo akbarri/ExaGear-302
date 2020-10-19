@@ -1,4 +1,4 @@
-# ExaGear-SU
+# ExaGear-302
 Exagear Windows Emulator Decompiled Source Code
 
 ***Note: Only Smali Codes were Decompiled!***
